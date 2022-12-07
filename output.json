@@ -1,0 +1,162 @@
+{
+    "name": "root",
+    "children": [
+        {
+            "name": "index_package",
+            "children": [
+                {
+                    "author_color": "#ff0000",
+                    "size": "3051",
+                    "name": "Martijn van Groningen",
+                    "weight": 3051,
+                    "ownership": 0.345839945590569,
+                    "children": []
+                },
+                {
+                    "author_color": "#f20000",
+                    "size": "2049",
+                    "name": "Simon Willnauer",
+                    "weight": 2049,
+                    "ownership": 0.23226025844479709,
+                    "children": []
+                },
+                {
+                    "author_color": "#e40000",
+                    "size": "596",
+                    "name": "Igor Motov",
+                    "weight": 596,
+                    "ownership": 0.06755837678530946,
+                    "children": []
+                },
+                {
+                    "author_color": "#d70000",
+                    "size": "582",
+                    "name": "Shay Banon",
+                    "weight": 582,
+                    "ownership": 0.06597143504874178,
+                    "children": []
+                },
+                {
+                    "author_color": "#c90000",
+                    "size": "512",
+                    "name": "Lee Hinman",
+                    "weight": 512,
+                    "ownership": 0.05803672636590342,
+                    "children": []
+                },
+                {
+                    "author_color": "#bc0000",
+                    "size": "498",
+                    "name": "Adrien Grand",
+                    "weight": 498,
+                    "ownership": 0.05644978462933575,
+                    "children": []
+                },
+                {
+                    "author_color": "#ae0000",
+                    "size": "464",
+                    "name": "Andrew Selden",
+                    "weight": 464,
+                    "ownership": 0.05259578326909998,
+                    "children": []
+                },
+                {
+                    "author_color": "#a10000",
+                    "size": "288",
+                    "name": "Boaz Leskes",
+                    "weight": 288,
+                    "ownership": 0.03264565858082068,
+                    "children": []
+                },
+                {
+                    "author_color": "#940000",
+                    "size": "257",
+                    "name": "Florian Schilling",
+                    "weight": 257,
+                    "ownership": 0.029131716164135117,
+                    "children": []
+                },
+                {
+                    "author_color": "#860000",
+                    "size": "186",
+                    "name": "David Pilato",
+                    "weight": 186,
+                    "ownership": 0.021083654500113354,
+                    "children": []
+                },
+                {
+                    "author_color": "#790000",
+                    "size": "180",
+                    "name": "Isabel Drost-Fromm",
+                    "weight": 180,
+                    "ownership": 0.02040353661301292,
+                    "children": []
+                },
+                {
+                    "author_color": "#6b0000",
+                    "size": "101",
+                    "name": "Alexander Reelsen",
+                    "weight": 101,
+                    "ownership": 0.011448651099523918,
+                    "children": []
+                },
+                {
+                    "author_color": "#5e0000",
+                    "size": "16",
+                    "name": "Holger Hoffst\u00e4tte",
+                    "weight": 16,
+                    "ownership": 0.001813647698934482,
+                    "children": []
+                },
+                {
+                    "author_color": "#510000",
+                    "size": "12",
+                    "name": "tstibbs",
+                    "weight": 12,
+                    "ownership": 0.0013602357742008614,
+                    "children": []
+                },
+                {
+                    "author_color": "#430000",
+                    "size": "10",
+                    "name": "George P. Stathis",
+                    "weight": 10,
+                    "ownership": 0.0011335298118340512,
+                    "children": []
+                },
+                {
+                    "author_color": "#360000",
+                    "size": "9",
+                    "name": "markharwood",
+                    "weight": 9,
+                    "ownership": 0.0010201768306506462,
+                    "children": []
+                },
+                {
+                    "author_color": "#280000",
+                    "size": "8",
+                    "name": "Nik Everett",
+                    "weight": 8,
+                    "ownership": 0.000906823849467241,
+                    "children": []
+                },
+                {
+                    "author_color": "#1b0000",
+                    "size": "2",
+                    "name": "Derek Slife",
+                    "weight": 2,
+                    "ownership": 0.00022670596236681024,
+                    "children": []
+                },
+                {
+                    "author_color": "#0d0000",
+                    "size": "1",
+                    "name": "Bill Hwang",
+                    "weight": 1,
+                    "ownership": 0.00011335298118340512,
+                    "children": []
+                }
+            ]
+        }
+    ]
+}
