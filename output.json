@@ -5,155 +5,1259 @@
             "name": "index_package",
             "children": [
                 {
-                    "author_color": "#ff0000",
-                    "size": "3051",
-                    "name": "Martijn van Groningen",
-                    "weight": 3051,
-                    "ownership": 0.345839945590569,
+                    "author_color": "green",
+                    "size": 408,
+                    "name": "ChildrenQuery.java",
+                    "weight": 408,
+                    "ownership": 0.8333333333333334,
                     "children": []
                 },
                 {
-                    "author_color": "#f20000",
-                    "size": "2049",
-                    "name": "Simon Willnauer",
-                    "weight": 2049,
-                    "ownership": 0.23226025844479709,
+                    "author_color": "green",
+                    "size": 354,
+                    "name": "ParentChildIndexFieldData.java",
+                    "weight": 354,
+                    "ownership": 0.7740112994350282,
                     "children": []
                 },
                 {
-                    "author_color": "#e40000",
-                    "size": "596",
-                    "name": "Igor Motov",
-                    "weight": 596,
-                    "ownership": 0.06755837678530946,
+                    "author_color": "green",
+                    "size": 327,
+                    "name": "ParentChildIntersectTermsEnum.java",
+                    "weight": 327,
+                    "ownership": 1.0,
                     "children": []
                 },
                 {
-                    "author_color": "#d70000",
-                    "size": "582",
-                    "name": "Shay Banon",
-                    "weight": 582,
-                    "ownership": 0.06597143504874178,
+                    "author_color": "black",
+                    "size": 297,
+                    "name": "MatchQuery.java",
+                    "weight": 297,
+                    "ownership": 0,
                     "children": []
                 },
                 {
-                    "author_color": "#c90000",
-                    "size": "512",
-                    "name": "Lee Hinman",
-                    "weight": 512,
-                    "ownership": 0.05803672636590342,
+                    "author_color": "green",
+                    "size": 253,
+                    "name": "ParentQuery.java",
+                    "weight": 253,
+                    "ownership": 0.7549407114624506,
                     "children": []
                 },
                 {
-                    "author_color": "#bc0000",
-                    "size": "498",
-                    "name": "Adrien Grand",
-                    "weight": 498,
-                    "ownership": 0.05644978462933575,
+                    "author_color": "black",
+                    "size": 249,
+                    "name": "CompletionFieldMapper.java",
+                    "weight": 249,
+                    "ownership": 0.020080321285140562,
                     "children": []
                 },
                 {
-                    "author_color": "#ae0000",
-                    "size": "464",
-                    "name": "Andrew Selden",
-                    "weight": 464,
-                    "ownership": 0.05259578326909998,
+                    "author_color": "black",
+                    "size": 222,
+                    "name": "MultiMatchQuery.java",
+                    "weight": 222,
+                    "ownership": 0,
                     "children": []
                 },
                 {
-                    "author_color": "#a10000",
-                    "size": "288",
-                    "name": "Boaz Leskes",
-                    "weight": 288,
-                    "ownership": 0.03264565858082068,
+                    "author_color": "black",
+                    "size": 217,
+                    "name": "TemplateQueryParser.java",
+                    "weight": 217,
+                    "ownership": 0,
                     "children": []
                 },
                 {
-                    "author_color": "#940000",
-                    "size": "257",
-                    "name": "Florian Schilling",
-                    "weight": 257,
-                    "ownership": 0.029131716164135117,
+                    "author_color": "black",
+                    "size": 210,
+                    "name": "SimpleQueryParser.java",
+                    "weight": 210,
+                    "ownership": 0,
                     "children": []
                 },
                 {
-                    "author_color": "#860000",
-                    "size": "186",
-                    "name": "David Pilato",
-                    "weight": 186,
-                    "ownership": 0.021083654500113354,
+                    "author_color": "black",
+                    "size": 204,
+                    "name": "InternalEngine.java",
+                    "weight": 204,
+                    "ownership": 0.00980392156862745,
                     "children": []
                 },
                 {
-                    "author_color": "#790000",
-                    "size": "180",
-                    "name": "Isabel Drost-Fromm",
-                    "weight": 180,
-                    "ownership": 0.02040353661301292,
+                    "author_color": "black",
+                    "size": 184,
+                    "name": "BlobStoreIndexShardRepository.java",
+                    "weight": 184,
+                    "ownership": 0,
                     "children": []
                 },
                 {
-                    "author_color": "#6b0000",
-                    "size": "101",
-                    "name": "Alexander Reelsen",
+                    "author_color": "black",
+                    "size": 183,
+                    "name": "GeoPointFieldMapper.java",
+                    "weight": 183,
+                    "ownership": 0.07650273224043716,
+                    "children": []
+                },
+                {
+                    "author_color": "green",
+                    "size": 148,
+                    "name": "ParentChildAtomicFieldData.java",
+                    "weight": 148,
+                    "ownership": 1.0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 140,
+                    "name": "VersionType.java",
+                    "weight": 140,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "green",
+                    "size": 139,
+                    "name": "DateFieldMapper.java",
+                    "weight": 139,
+                    "ownership": 0.8129496402877698,
+                    "children": []
+                },
+                {
+                    "author_color": "green",
+                    "size": 139,
+                    "name": "ChildrenConstantScoreQuery.java",
+                    "weight": 139,
+                    "ownership": 0.9568345323741008,
+                    "children": []
+                },
+                {
+                    "author_color": "green",
+                    "size": 139,
+                    "name": "ParentConstantScoreQuery.java",
+                    "weight": 139,
+                    "ownership": 0.9568345323741008,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 120,
+                    "name": "MurmurHash3Values.java",
+                    "weight": 120,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 114,
+                    "name": "MultiMatchQueryBuilder.java",
+                    "weight": 114,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 113,
+                    "name": "BlobStoreIndexShardSnapshot.java",
+                    "weight": 113,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 111,
+                    "name": "Murmur3FieldMapper.java",
+                    "weight": 111,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 107,
+                    "name": "Merges.java",
+                    "weight": 107,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 103,
+                    "name": "ShardGetService.java",
+                    "weight": 103,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 101,
+                    "name": "RateLimitingInputStream.java",
                     "weight": 101,
-                    "ownership": 0.011448651099523918,
+                    "ownership": 0,
                     "children": []
                 },
                 {
-                    "author_color": "#5e0000",
-                    "size": "16",
-                    "name": "Holger Hoffst\u00e4tte",
+                    "author_color": "black",
+                    "size": 86,
+                    "name": "EnableMergeScheduler.java",
+                    "weight": 86,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "green",
+                    "size": 84,
+                    "name": "ParentChildFilteredTermsEnum.java",
+                    "weight": 84,
+                    "ownership": 1.0,
+                    "children": []
+                },
+                {
+                    "author_color": "green",
+                    "size": 79,
+                    "name": "TopChildrenQuery.java",
+                    "weight": 79,
+                    "ownership": 0.9873417721518988,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 64,
+                    "name": "IndexShardGatewayService.java",
+                    "weight": 64,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 61,
+                    "name": "IndexShardSnapshotStatus.java",
+                    "weight": 61,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 60,
+                    "name": "AbstractFieldMapper.java",
+                    "weight": 60,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 60,
+                    "name": "Translog.java",
+                    "weight": 60,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 56,
+                    "name": "BlobStoreIndexShardGateway.java",
+                    "weight": 56,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 54,
+                    "name": "TemplateQueryBuilder.java",
+                    "weight": 54,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 50,
+                    "name": "LocalIndexShardGateway.java",
+                    "weight": 50,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 46,
+                    "name": "SimpleQueryStringParser.java",
+                    "weight": 46,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 42,
+                    "name": "SegmentsStats.java",
+                    "weight": 42,
+                    "ownership": 0.21428571428571427,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 41,
+                    "name": "MultiMatchQueryParser.java",
+                    "weight": 41,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 39,
+                    "name": "TypeParsers.java",
+                    "weight": 39,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 39,
+                    "name": "BufferingFsTranslogFile.java",
+                    "weight": 39,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 38,
+                    "name": "QueryBuilders.java",
+                    "weight": 38,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 38,
+                    "name": "ShingleTokenFilterFactory.java",
+                    "weight": 38,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "green",
+                    "size": 37,
+                    "name": "Uid.java",
+                    "weight": 37,
+                    "ownership": 1.0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 36,
+                    "name": "InternalIndexShard.java",
+                    "weight": 36,
+                    "ownership": 0.4722222222222222,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 36,
+                    "name": "IndexQueryParserService.java",
+                    "weight": 36,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 34,
+                    "name": "FsTranslog.java",
+                    "weight": 34,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 33,
+                    "name": "ParseContext.java",
+                    "weight": 33,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 33,
+                    "name": "ElasticsearchMergePolicy.java",
+                    "weight": 33,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 31,
+                    "name": "BytesRefOrdValComparator.java",
+                    "weight": 31,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 30,
+                    "name": "SimpleQueryStringFlag.java",
+                    "weight": 30,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 30,
+                    "name": "SimpleQueryStringBuilder.java",
+                    "weight": 30,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 29,
+                    "name": "BinaryFieldMapper.java",
+                    "weight": 29,
+                    "ownership": 0.034482758620689655,
+                    "children": []
+                },
+                {
+                    "author_color": "green",
+                    "size": 28,
+                    "name": "ShardPercolateService.java",
+                    "weight": 28,
+                    "ownership": 0.6428571428571429,
+                    "children": []
+                },
+                {
+                    "author_color": "green",
+                    "size": 25,
+                    "name": "ParentIdsFilter.java",
+                    "weight": 25,
+                    "ownership": 1.0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 25,
+                    "name": "CommonTermsQueryParser.java",
+                    "weight": 25,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "green",
+                    "size": 20,
+                    "name": "PercolateStats.java",
+                    "weight": 20,
+                    "ownership": 1.0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 20,
+                    "name": "BooleanFieldMapper.java",
+                    "weight": 20,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 19,
+                    "name": "FQueryFilterParser.java",
+                    "weight": 19,
+                    "ownership": 0.42105263157894735,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 19,
+                    "name": "ScriptDocValues.java",
+                    "weight": 19,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 18,
+                    "name": "GeoPolygonFilterParser.java",
+                    "weight": 18,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 18,
+                    "name": "NoneIndexShardGateway.java",
+                    "weight": 18,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "green",
+                    "size": 17,
+                    "name": "Segment.java",
+                    "weight": 17,
+                    "ownership": 1.0,
+                    "children": []
+                },
+                {
+                    "author_color": "green",
+                    "size": 16,
+                    "name": "HasChildQueryParser.java",
                     "weight": 16,
-                    "ownership": 0.001813647698934482,
+                    "ownership": 1.0,
                     "children": []
                 },
                 {
-                    "author_color": "#510000",
-                    "size": "12",
-                    "name": "tstibbs",
+                    "author_color": "black",
+                    "size": 16,
+                    "name": "BytesRefValComparator.java",
+                    "weight": 16,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 16,
+                    "name": "MergeSchedulerProvider.java",
+                    "weight": 16,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 16,
+                    "name": "QueryFilterParser.java",
+                    "weight": 16,
+                    "ownership": 0.4375,
+                    "children": []
+                },
+                {
+                    "author_color": "green",
+                    "size": 15,
+                    "name": "HasChildFilterBuilder.java",
+                    "weight": 15,
+                    "ownership": 1.0,
+                    "children": []
+                },
+                {
+                    "author_color": "green",
+                    "size": 15,
+                    "name": "HasParentFilterBuilder.java",
+                    "weight": 15,
+                    "ownership": 1.0,
+                    "children": []
+                },
+                {
+                    "author_color": "green",
+                    "size": 15,
+                    "name": "RangeFilterParser.java",
+                    "weight": 15,
+                    "ownership": 1.0,
+                    "children": []
+                },
+                {
+                    "author_color": "green",
+                    "size": 15,
+                    "name": "TopChildrenQueryParser.java",
+                    "weight": 15,
+                    "ownership": 1.0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 15,
+                    "name": "IndexShardRepository.java",
+                    "weight": 15,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 14,
+                    "name": "GeohashCellFilter.java",
+                    "weight": 14,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 14,
+                    "name": "SearchStats.java",
+                    "weight": 14,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 13,
+                    "name": "GeoShapeFieldMapper.java",
+                    "weight": 13,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "green",
+                    "size": 13,
+                    "name": "IndexCache.java",
+                    "weight": 13,
+                    "ownership": 1.0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 13,
+                    "name": "StringScriptDataComparator.java",
+                    "weight": 13,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 12,
+                    "name": "ASCIIFoldingTokenFilterFactory.java",
                     "weight": 12,
-                    "ownership": 0.0013602357742008614,
+                    "ownership": 0,
                     "children": []
                 },
                 {
-                    "author_color": "#430000",
-                    "size": "10",
-                    "name": "George P. Stathis",
+                    "author_color": "green",
+                    "size": 12,
+                    "name": "ShardFieldData.java",
+                    "weight": 12,
+                    "ownership": 1.0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 12,
+                    "name": "Engine.java",
+                    "weight": 12,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 12,
+                    "name": "BoolFilterBuilder.java",
+                    "weight": 12,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 11,
+                    "name": "MergeSchedulerModule.java",
+                    "weight": 11,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "green",
+                    "size": 11,
+                    "name": "CustomQueryWrappingFilter.java",
+                    "weight": 11,
+                    "ownership": 1.0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 11,
+                    "name": "SimpleFsTranslogFile.java",
+                    "weight": 11,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 10,
+                    "name": "MapperService.java",
                     "weight": 10,
-                    "ownership": 0.0011335298118340512,
+                    "ownership": 0,
                     "children": []
                 },
                 {
-                    "author_color": "#360000",
-                    "size": "9",
-                    "name": "markharwood",
+                    "author_color": "black",
+                    "size": 10,
+                    "name": "PreBuiltTokenizerFactoryFactory.java",
+                    "weight": 10,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 10,
+                    "name": "MissingFilterParser.java",
+                    "weight": 10,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 10,
+                    "name": "QueryStringQueryBuilder.java",
+                    "weight": 10,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "green",
+                    "size": 10,
+                    "name": "HasChildFilterParser.java",
+                    "weight": 10,
+                    "ownership": 1.0,
+                    "children": []
+                },
+                {
+                    "author_color": "green",
+                    "size": 10,
+                    "name": "HasParentQueryParser.java",
+                    "weight": 10,
+                    "ownership": 1.0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 10,
+                    "name": "NestedFieldComparatorSource.java",
+                    "weight": 10,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 9,
+                    "name": "RamDirectoryService.java",
                     "weight": 9,
-                    "ownership": 0.0010201768306506462,
+                    "ownership": 0,
                     "children": []
                 },
                 {
-                    "author_color": "#280000",
-                    "size": "8",
-                    "name": "Nik Everett",
+                    "author_color": "black",
+                    "size": 9,
+                    "name": "PreBuiltAnalyzerProviderFactory.java",
+                    "weight": 9,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 9,
+                    "name": "PreBuiltCharFilterFactoryFactory.java",
+                    "weight": 9,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 9,
+                    "name": "PreBuiltTokenFilterFactoryFactory.java",
+                    "weight": 9,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 9,
+                    "name": "ParentFieldMapper.java",
+                    "weight": 9,
+                    "ownership": 0.3333333333333333,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 9,
+                    "name": "FuzzyLikeThisQueryParser.java",
+                    "weight": 9,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "green",
+                    "size": 8,
+                    "name": "HasParentFilterParser.java",
                     "weight": 8,
-                    "ownership": 0.000906823849467241,
+                    "ownership": 1.0,
                     "children": []
                 },
                 {
-                    "author_color": "#1b0000",
-                    "size": "2",
-                    "name": "Derek Slife",
+                    "author_color": "black",
+                    "size": 8,
+                    "name": "SerialMergeSchedulerProvider.java",
+                    "weight": 8,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 8,
+                    "name": "GeoBoundingBoxFilterParser.java",
+                    "weight": 8,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 8,
+                    "name": "IndexShardSnapshotAndRestoreService.java",
+                    "weight": 8,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 6,
+                    "name": "QueryStringQueryParser.java",
+                    "weight": 6,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 6,
+                    "name": "PagedBytesIndexFieldData.java",
+                    "weight": 6,
+                    "ownership": 0.5,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 6,
+                    "name": "DoubleScriptDataComparator.java",
+                    "weight": 6,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 6,
+                    "name": "DoubleValuesComparatorBase.java",
+                    "weight": 6,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 6,
+                    "name": "GeoDistanceComparator.java",
+                    "weight": 6,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 6,
+                    "name": "LongValuesComparatorBase.java",
+                    "weight": 6,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 6,
+                    "name": "NumberComparatorBase.java",
+                    "weight": 6,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 6,
+                    "name": "IdFieldMapper.java",
+                    "weight": 6,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 6,
+                    "name": "NestedFilterParser.java",
+                    "weight": 6,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 5,
+                    "name": "DeleteByQueryWrappingFilter.java",
+                    "weight": 5,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 5,
+                    "name": "ExistsFilterParser.java",
+                    "weight": 5,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "green",
+                    "size": 5,
+                    "name": "IndexFieldDataService.java",
+                    "weight": 5,
+                    "ownership": 1.0,
+                    "children": []
+                },
+                {
+                    "author_color": "green",
+                    "size": 5,
+                    "name": "IndexShard.java",
+                    "weight": 5,
+                    "ownership": 1.0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 5,
+                    "name": "BoolQueryBuilder.java",
+                    "weight": 5,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 5,
+                    "name": "IndexShardGateway.java",
+                    "weight": 5,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 4,
+                    "name": "FilteredQueryParser.java",
+                    "weight": 4,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 4,
+                    "name": "RamAccountingTermsEnum.java",
+                    "weight": 4,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 4,
+                    "name": "IdsFilterParser.java",
+                    "weight": 4,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 4,
+                    "name": "IdsQueryParser.java",
+                    "weight": 4,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 4,
+                    "name": "TermsFilterParser.java",
+                    "weight": 4,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 4,
+                    "name": "MapperBuilders.java",
+                    "weight": 4,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 4,
+                    "name": "QueryParseContext.java",
+                    "weight": 4,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 4,
+                    "name": "SourceFieldMapper.java",
+                    "weight": 4,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 4,
+                    "name": "GeoDistanceRangeFilterParser.java",
+                    "weight": 4,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 3,
+                    "name": "IndexStoreModule.java",
+                    "weight": 3,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "green",
+                    "size": 3,
+                    "name": "IdCacheStats.java",
+                    "weight": 3,
+                    "ownership": 1.0,
+                    "children": []
+                },
+                {
+                    "author_color": "green",
+                    "size": 3,
+                    "name": "IndexFieldData.java",
+                    "weight": 3,
+                    "ownership": 1.0,
+                    "children": []
+                },
+                {
+                    "author_color": "green",
+                    "size": 3,
+                    "name": "DisabledIndexFieldData.java",
+                    "weight": 3,
+                    "ownership": 1.0,
+                    "children": []
+                },
+                {
+                    "author_color": "green",
+                    "size": 3,
+                    "name": "DocValuesIndexFieldData.java",
+                    "weight": 3,
+                    "ownership": 1.0,
+                    "children": []
+                },
+                {
+                    "author_color": "green",
+                    "size": 3,
+                    "name": "DoubleArrayIndexFieldData.java",
+                    "weight": 3,
+                    "ownership": 1.0,
+                    "children": []
+                },
+                {
+                    "author_color": "green",
+                    "size": 3,
+                    "name": "FSTBytesIndexFieldData.java",
+                    "weight": 3,
+                    "ownership": 1.0,
+                    "children": []
+                },
+                {
+                    "author_color": "green",
+                    "size": 3,
+                    "name": "FloatArrayIndexFieldData.java",
+                    "weight": 3,
+                    "ownership": 1.0,
+                    "children": []
+                },
+                {
+                    "author_color": "green",
+                    "size": 3,
+                    "name": "GeoPointBinaryDVIndexFieldData.java",
+                    "weight": 3,
+                    "ownership": 1.0,
+                    "children": []
+                },
+                {
+                    "author_color": "green",
+                    "size": 3,
+                    "name": "GeoPointCompressedIndexFieldData.java",
+                    "weight": 3,
+                    "ownership": 1.0,
+                    "children": []
+                },
+                {
+                    "author_color": "green",
+                    "size": 3,
+                    "name": "GeoPointDoubleArrayIndexFieldData.java",
+                    "weight": 3,
+                    "ownership": 1.0,
+                    "children": []
+                },
+                {
+                    "author_color": "green",
+                    "size": 3,
+                    "name": "PackedArrayIndexFieldData.java",
+                    "weight": 3,
+                    "ownership": 1.0,
+                    "children": []
+                },
+                {
+                    "author_color": "green",
+                    "size": 3,
+                    "name": "InternalIndexService.java",
+                    "weight": 3,
+                    "ownership": 1.0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 3,
+                    "name": "DocumentMapperParser.java",
+                    "weight": 3,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 3,
+                    "name": "FsTranslogFile.java",
+                    "weight": 3,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 3,
+                    "name": "DecayFunctionParser.java",
+                    "weight": 3,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 2,
+                    "name": "ByteFieldMapper.java",
                     "weight": 2,
-                    "ownership": 0.00022670596236681024,
+                    "ownership": 0,
                     "children": []
                 },
                 {
-                    "author_color": "#0d0000",
-                    "size": "1",
-                    "name": "Bill Hwang",
-                    "weight": 1,
-                    "ownership": 0.00011335298118340512,
+                    "author_color": "black",
+                    "size": 2,
+                    "name": "DoubleFieldMapper.java",
+                    "weight": 2,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 2,
+                    "name": "FloatFieldMapper.java",
+                    "weight": 2,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 2,
+                    "name": "IntegerFieldMapper.java",
+                    "weight": 2,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 2,
+                    "name": "LongFieldMapper.java",
+                    "weight": 2,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 2,
+                    "name": "ShortFieldMapper.java",
+                    "weight": 2,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 2,
+                    "name": "StringFieldMapper.java",
+                    "weight": 2,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 2,
+                    "name": "TokenCountFieldMapper.java",
+                    "weight": 2,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 2,
+                    "name": "IpFieldMapper.java",
+                    "weight": 2,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 2,
+                    "name": "MatchQueryParser.java",
+                    "weight": 2,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "green",
+                    "size": 2,
+                    "name": "IndexCacheModule.java",
+                    "weight": 2,
+                    "ownership": 1.0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 2,
+                    "name": "FsIndexShardGateway.java",
+                    "weight": 2,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 2,
+                    "name": "FSTBytesAtomicFieldData.java",
+                    "weight": 2,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 2,
+                    "name": "PagedBytesAtomicFieldData.java",
+                    "weight": 2,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 2,
+                    "name": "SortedSetDVAtomicFieldData.java",
+                    "weight": 2,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 2,
+                    "name": "ConcurrentMergeSchedulerProvider.java",
+                    "weight": 2,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 2,
+                    "name": "AbstractIndexStore.java",
+                    "weight": 2,
+                    "ownership": 0,
+                    "children": []
+                },
+                {
+                    "author_color": "black",
+                    "size": 2,
+                    "name": "GeoDistanceFilterParser.java",
+                    "weight": 2,
+                    "ownership": 0,
                     "children": []
                 }
             ]
